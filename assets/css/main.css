@@ -896,6 +896,7 @@ section,
 .about .content h2 {
   font-weight: 700;
   font-size: 24px;
+  font-style: italic;
 }
 
 .about .content ul {
@@ -919,6 +920,29 @@ section,
   color: var(--accent-color);
   line-height: 0;
 }
+
+.about img{
+  width: 800px;
+  border-radius: 5px;
+  float: left;
+  margin-right: 15px;
+  
+}
+.imagen{
+  float: right !important; 
+  width: 600px !important;
+  margin-left: 15px !important;
+}
+
+.about h2{
+  font-style: italic;
+  text-align: left; 
+font-weight:bold; 
+font-size: 30px; 
+text-shadow: -1px 0 #414D68, 0 1px #414D68, 1px 0 #414D68, 0 -1px #414D68, -2px 2px 0 #414D68, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #414D68, 4px 4px #414D68, 5px 5px #414D68; 6px 6px #414D68, 7px 7px #414D68, 8px 8px #414D68, 9px 9px #414D68;
+
+}
+
 
 /*--------------------------------------------------------------
 # Testimonials Section
