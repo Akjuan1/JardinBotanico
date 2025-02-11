@@ -323,6 +323,11 @@ h6 {
 
 /* Navmenu - Mobile */
 @media (max-width: 1199px) {
+
+  .page-title .heading h1 {
+    font-size: 50px !important;
+  }
+
   .mobile-nav-toggle {
     color: var(--nav-color);
     font-size: 28px;
